@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65050465348",
+    "project_id": "ailatrieuphu-e192c",
+    "storage_bucket": "ailatrieuphu-e192c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65050465348:android:7a745dd5e9a849ee699811",
+        "android_client_info": {
+          "package_name": "com.example.gameailatrieuphu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65050465348-1pq8b39a891s5sjsnvao268bvtuvvo61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEC_MiSJSCLV1p64XwvFsen1M2Agn5qw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65050465348-1pq8b39a891s5sjsnvao268bvtuvvo61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
